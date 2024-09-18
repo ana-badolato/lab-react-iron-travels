@@ -72,3 +72,16 @@ p{
   align-items: center; 
   width: 100%;
 }
+
+label {
+  background-color: rgb(50, 90, 221);
+  padding: 4px 8px;
+  color: white;
+  margin-right: 8px;
+  border-radius: 3px;
+}
+
+.deal{
+  background-color: green;
+}
+
